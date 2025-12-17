@@ -1,0 +1,1 @@
+<?php echo 'PenPal Home Page with logo and hero section'; ?>

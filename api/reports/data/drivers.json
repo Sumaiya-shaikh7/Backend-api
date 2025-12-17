@@ -1,0 +1,28 @@
+{
+  "activity": [
+    {
+      "title": "New load posted",
+      "time": "2 hours ago",
+      "amount": 25000,
+      "type": "Revenue"
+    },
+    {
+      "title": "Commission earned",
+      "time": "5 hours ago",
+      "amount": 1200,
+      "type": "Commission"
+    },
+    {
+      "title": "Job completed",
+      "time": "1 day ago",
+      "route": "Mumbai → Delhi",
+      "type": "Completion"
+    },
+    {
+      "title": "Payment received",
+      "time": "2 days ago",
+      "amount": 18500,
+      "type": "Payment"
+    }
+  ]
+}

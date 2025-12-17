@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "total_revenue": 185000,
+    "completed_jobs": 28,
+    "drivers": 15,
+    "avg_commission": 6200
+  },
+  "weekly_jobs_revenue": {
+    "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "jobs": [25, 40, 38, 55, 48, 62, 35],
+    "revenue": [25000, 42000, 39000, 58000, 47000, 65000, 36000]
+  },
+  "commission_trend": {
+    "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "earnings": [500, 1200, 900, 1400, 1100, 1800, 900]
+  }
+}

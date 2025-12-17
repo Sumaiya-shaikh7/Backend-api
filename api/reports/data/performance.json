@@ -1,0 +1,12 @@
+{
+  "job_distribution": {
+    "completed": 75,
+    "in_progress": 15,
+    "pending": 8,
+    "cancelled": 2
+  },
+  "distance_covered": {
+    "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "distance": [800, 1200, 950, 1600, 1150, 1400, 900]
+  }
+}
